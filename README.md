@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hello Wolrd!👋 Bem vindo ao meu perfil
+
+** My name is Raphael and i'm student full stack developer. **
+
+- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning React Native
+
+
 
 <!--
 **raphaelgregg/raphaelgregg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
