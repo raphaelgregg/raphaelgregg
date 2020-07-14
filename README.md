@@ -5,14 +5,17 @@
 
 **Meu nome é Raphael Gregg, Analista e desenvolvedor de sistemas e apaixonado pelo desenvolvimento web e mobile.**
 
-- 🌱 No momento estou aprendendo Javascript<img src=".github/javascript.svg" alt="react" height="18">, Nodejs<img src=".github/nodejs.svg" alt="node" height="18">, ReactJS<img src=".github/reactjs.svg" alt="react" height="18">, React Native<img src=".github/reactnative.svg" alt="reactnative" height="18">
+- 🌱 No momento estou aprendendo Javascript, Nodejs, ReactJS, React Native
 
 
 
 
 <!--
 **raphaelgregg/raphaelgregg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src=".github/javascript.svg" alt="react" height="18">
+<img src=".github/nodejs.svg" alt="node" height="18">
+<img src=".github/reactjs.svg" alt="react" height="18">
+<img src=".github/reactnative.svg" alt="reactnative" height="18">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
